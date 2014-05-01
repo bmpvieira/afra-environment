@@ -20,3 +20,7 @@ docker run -i -t bmpvieira/afra-environment -name afra-environment bash
 License
 -------
 [MIT](https://raw.github.com/bmpvieira/afra-environment/master/LICENSE)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bmpvieira/afra-environment/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
